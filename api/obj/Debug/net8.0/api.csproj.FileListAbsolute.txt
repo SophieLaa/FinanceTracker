@@ -31,3 +31,4 @@ C:\Users\User\OneDrive\Desktop\Projects\FinanceTracker\api\obj\Debug\net8.0\refi
 C:\Users\User\OneDrive\Desktop\Projects\FinanceTracker\api\obj\Debug\net8.0\api.pdb
 C:\Users\User\OneDrive\Desktop\Projects\FinanceTracker\api\obj\Debug\net8.0\api.genruntimeconfig.cache
 C:\Users\User\OneDrive\Desktop\Projects\FinanceTracker\api\obj\Debug\net8.0\ref\api.dll
+C:\Users\User\OneDrive\Desktop\Projects\FinanceTracker\api\obj\Debug\net8.0\api.sourcelink.json
