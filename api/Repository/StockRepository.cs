@@ -52,6 +52,17 @@ namespace api.Repository
             if (existingstock == null){
                return null; 
             }
+
+            existingstock.Symbol = stockDto.Symbol;
+            existingstock.CompanyName =  stockDto.CompanyName;
+            existingstock.Purchase = stockDto.Purchase;
+            existingstock.LastDiv = stockDto.LastDiv;
+            existingstock.Industry = stockDto.Industry;
+            existingstock.MarketCap = stockDto.MarketCap;
+
+            await _context.SaveChangesAsync();
+            return existingstock;
+            
         }
     }
 }
